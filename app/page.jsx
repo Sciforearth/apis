@@ -6,7 +6,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
     
     <div>
-      <h1>Api's by Revtrance</h1> 
+      <h1>Api&apos;s by Revtrance</h1> 
 
       <a href="/random-hindi-words"> Random Hindi words API</a>
       <LoginComponent/>

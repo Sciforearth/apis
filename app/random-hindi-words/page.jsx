@@ -9,7 +9,7 @@ const HindiWordsPage = () => {
         <p>By Deepanshu Balyan</p>
 
 
-        <p>This API returns random hindi word</p>
+        <p>This API returns random hindi word. You can use this in your projects</p>
 
         <p>Method: GET</p>
         <div className=' bg-slate-50 px-5 py-3'> https://ap-south-1.aws.data.mongodb-api.com/app/revtrance-hcgmauq/endpoint/hindi/randomword </div>
